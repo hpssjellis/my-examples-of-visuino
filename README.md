@@ -8,19 +8,25 @@ type in search bar
 
 analog  converters text
 
-easy-often used
+## easy-often used
 sineAnalogGenerator
 mapRange
 packet1 - view values -format packet1 new tab instruments
 formattedText    %0
 pulseGenerator
 button1
+textValue1
+textMultiSource1
+textMultiMerge
+clockGenerator
 
 
-medium
+
+
+## medium
 
 
 
 
 
-hard rare
+## hard rare
